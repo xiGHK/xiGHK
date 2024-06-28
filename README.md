@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello👋  I'm Yaohao!
+## ⚡ About
+Currently a Year 2 Computer Engineer in NTU, specialising in AI & Machine Learning.
 
 <!--
 **xiGHK/xiGHK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
