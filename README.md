@@ -1,4 +1,4 @@
-## Hello👋  I'm Yaohao!
+
 ## ⚡ About
 Currently a Year 2 Computer Engineer in NTU, specialising in AI & Machine Learning.
 
